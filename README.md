@@ -17,9 +17,9 @@ The work has been verified on Kubuntu 14.04 with Python 2.7 installed.
 
 The command syntax:
 
-'''
+```
 python convert.py -jN <input_7z_file> <output_zip_file> 
-'''
+```
 
 where N is the number of threads used to extract data. Usually, it is equal to
 the number of threads that your processor is able to process simultaneously, 
